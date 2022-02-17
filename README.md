@@ -6,6 +6,7 @@
 
 #### Bu site benim hakkımda temel bilgileri içermektedir. Kariyerimde ilerledikçe, web sitem şekillenecektir. 
 #### Başlangıç olarak ilkel bir html sitesi oluşturdum.
+#### Sitenin yayımlanması için ücretsiz hosting kullanıyorum.
 
 ##### İçindekiler
 
@@ -19,10 +20,12 @@
 
 #### This web site includes mine career informations. While I improve myself, my web site will be more formed.
 #### I create a primitive web site with html just for beginning.
-
+#### I am using free hosting service for the host.
 
 ##### Content
 
 > Home page
 > Resume
 > Communication
+
+http://furkan01.epizy.com/index.html
