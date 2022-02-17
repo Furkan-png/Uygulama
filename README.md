@@ -13,8 +13,10 @@
 ##### İçindekiler
 
 > Anasayfa
->> Özgeçmiş
->>> İletişim
+
+> Özgeçmiş
+
+> İletişim
 
 
 
