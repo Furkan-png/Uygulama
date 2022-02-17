@@ -2,6 +2,8 @@
 
 
 
+#### TR/EN
+
 ### Basit HTML Özgeçmiş Sitesi
 
 #### Bu site benim hakkımda temel bilgileri içermektedir. Kariyerimde ilerledikçe, web sitem şekillenecektir. 
