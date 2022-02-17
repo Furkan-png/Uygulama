@@ -4,7 +4,7 @@
 
 #### TR/EN
 
-### Basit HTML Özgeçmiş Sitesi
+## Basit HTML Özgeçmiş Sitesi
 
 #### Bu site benim hakkımda temel bilgileri içermektedir. Kariyerimde ilerledikçe, web sitem şekillenecektir. 
 #### Başlangıç olarak ilkel bir html sitesi oluşturdum.
@@ -20,7 +20,7 @@
 
 
 
-### Basic HTML Resume Website
+## Basic HTML Resume Website
 
 #### This web site includes mine career informations. While I improve myself, my web site will be more formed.
 #### I create a primitive web site with html just for beginning.
