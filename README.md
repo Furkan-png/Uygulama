@@ -10,7 +10,7 @@
 #### Başlangıç olarak ilkel bir html sitesi oluşturdum.
 #### Sitenin yayımlanması için ücretsiz hosting kullanıyorum.
 
-##### İçindekiler:
+### İçindekiler:
 
 > Anasayfa
 
@@ -26,7 +26,7 @@
 #### I create a primitive web site with html just for beginning.
 #### I am using free hosting service for the host.
 
-##### Content:
+### Content:
 
 > Home page
 
